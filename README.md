@@ -16,10 +16,10 @@ Data Science portfolio
 # [Project 2: Data Science IOT Anomaly, Risk, and Failure Prediction Detection: Project Overview](https://github.com/hydrobot004/pumpsensors-01)
 * Any dataset can be implemented from similar IoT related devices that produce time series data.
 * This project can help you to learn:
-**- how to approach sensors data
-**- how to find anomalies which can identify pumps or other IOT devices at risk,
-**- slopes in the time series record, another indicator of potential failure. 
-**- python code which can be run on AWS Sagemaker or a desktop Jupyter notebook 
+* how to approach sensors data
+* how to find anomalies which can identify pumps or other IOT devices at risk,
+* slopes in the time series record, another indicator of potential failure. 
+* python code which can be run on AWS Sagemaker or a desktop Jupyter notebook 
 
 ## Code and Resources Used
 * Python Version: 3.7
@@ -36,12 +36,12 @@ Data Science portfolio
 # [Project 3: Data Science Python, Keras A.I., TensorFlow, and SQL tool to analyze, manipulate, and predict missing data: Project Overview](https://github.com/hydrobot004/gap_fill_estimates)
 * Any dataset of three or more time series can be implemented to predict the gaps in one of the datasets
 * This project can help you to learn:
-** how to analyze, manipulate, and predict missing data,
-** how to label, plot, and visualize data,
-** how to detect correlations,
-** how to transform or scale data,
-** how to use Keras A.I. libraries for training data and predicting missing observations,
-** python code which can be run on AWS Sagemaker or a desktop Jupyter notebook 
+* how to analyze, manipulate, and predict missing data,
+* how to label, plot, and visualize data,
+* how to detect correlations,
+* how to transform or scale data,
+* how to use Keras A.I. libraries for training data and predicting missing observations,
+* python code which can be run on AWS Sagemaker or a desktop Jupyter notebook 
 
 ## Code and Resources Used
 * Python Version: 3.0
