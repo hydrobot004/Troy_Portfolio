@@ -28,7 +28,7 @@ Data Science portfolio
 * [https://machinelearningmastery.com/failure-of-accuracy-for-imbalanced-class-distributions/](Failure of Accuracy)
 
 
-# [Project 3: Data Science Python, Keras A.I., TensorFlow, and SQL tool to analyze, manipulate, and predict missing data](https://github.com/hydrobot004/gap_fill_estimates)
+# [Project 3: Data Science Python, Keras A.I., TensorFlow, and SQL tool to analyze, manipulate, and predict missing data: Project Overview](https://github.com/hydrobot004/gap_fill_estimates)
 * Any dataset of three or more time series can be implemented to predict the gaps in one of the datasets
 * This project can help you to learn:
 **- how to analyze, manipulate, and predict missing data,
