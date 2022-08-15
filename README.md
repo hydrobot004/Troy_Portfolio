@@ -29,8 +29,8 @@ Data Science portfolio
 * [Techniques to Handle Imbalanced Data](https://pythonsimplified.com/5-common-techniques-to-handle-imbalanced-data/)
 * [Failure of Accuracy](https://machinelearningmastery.com/failure-of-accuracy-for-imbalanced-class-distributions/)
 
-![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/2.jpg)![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/3.jpg)
-![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/5.jpg)
+![](/images/2.jpg)![](/images/3.jpg)
+![](/images/5.jpg)
 
 
 # [Project 3: Data Science Python, Keras A.I., TensorFlow, and SQL tool to analyze, manipulate, and predict missing data: Project Overview](https://github.com/hydrobot004/gap_fill_estimates)
