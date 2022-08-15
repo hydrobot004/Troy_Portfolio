@@ -10,6 +10,8 @@ Data Science portfolio
 * Packages/Libraries: boto3, re, sys, math, json, os, sagemaker, urllib.request, numpy, pandas, matplotlib, pyplot
 * Dataframe Shape (28831, 61) (12357, 61)
 
+![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/1.jpg)
+
 
 # [Project 2: Data Science IOT Anomaly, Risk, and Failure Prediction Detection: Project Overview](https://github.com/hydrobot004/pumpsensors-01)
 * Any dataset can be implemented from similar IoT related devices that produce time series data.
@@ -27,6 +29,9 @@ Data Science portfolio
 * [https://pythonsimplified.com/5-common-techniques-to-handle-imbalanced-data/](Techniques to Handle Imbalanced Data)
 * [https://machinelearningmastery.com/failure-of-accuracy-for-imbalanced-class-distributions/](Failure of Accuracy)
 
+![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/2.jpg)![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/3.jpg)
+![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/5.jpg)
+
 
 # [Project 3: Data Science Python, Keras A.I., TensorFlow, and SQL tool to analyze, manipulate, and predict missing data: Project Overview](https://github.com/hydrobot004/gap_fill_estimates)
 * Any dataset of three or more time series can be implemented to predict the gaps in one of the datasets
@@ -43,3 +48,5 @@ Data Science portfolio
 * Packages/Libraries: pandas, numpy, matplotlib, datetime, seaborn, sklearn, StandardScaler, keras, Sequential, and Dense 
 * Dataframe Shape: (4, 724) to any large scale
 * Additional References : None Yet
+![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/6.jpg)![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/7.jpg)![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/8.jpg)
+![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/9.jpg)![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/10.jpg)
