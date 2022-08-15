@@ -10,7 +10,7 @@ Data Science portfolio
 * Packages/Libraries: boto3, re, sys, math, json, os, sagemaker, urllib.request, numpy, pandas, matplotlib, pyplot
 * Dataframe Shape (28831, 61) (12357, 61)
 
-![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/1.jpg)
+![](/images/1.jpg)
 
 
 # [Project 2: Data Science IOT Anomaly, Risk, and Failure Prediction Detection: Project Overview](https://github.com/hydrobot004/pumpsensors-01)
@@ -48,5 +48,5 @@ Data Science portfolio
 * Packages/Libraries: pandas, numpy, matplotlib, datetime, seaborn, sklearn, StandardScaler, keras, Sequential, and Dense 
 * Dataframe Shape: (4, 724) to any large scale
 * Additional References : None Yet
-![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/6.jpg)![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/7.jpg)![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/8.jpg)
-![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/9.jpg)![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/10.jpg)
+![](/images/6.jpg)![](/images/7.jpg)![](/images/8.jpg)
+![](/images/9.jpg)![](/images/10.jpg)
