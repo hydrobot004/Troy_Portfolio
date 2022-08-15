@@ -1,7 +1,7 @@
 # Troy_Portfolio
 Example data science portfolio
 
-# Project 1: Data Science Purchase Estimator: Project Overview
+# [Project 1: Data Science Purchase Estimator: Project Overview](https://github.com/hydrobot004/XG-BoostML_Algorithms)
 * Created a tool deployed on AWS Sagemaker that predicts the likelyhood of bank customers making a purchase 
 * Using XG-BoostML_Algorithms to train, test and predict employing a confusion matrix.
 
