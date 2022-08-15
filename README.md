@@ -26,8 +26,8 @@ Data Science portfolio
 * Packages/Libraries: pandas, numpy, matplotlib, pyplot, seaborn, sklearn, LabelEncoder, train_test_split, LogisticRegression, confusion_matrix, classification_report, accuracy_score 
 * Dataframe Shape: (220320, 52)
 * Additional References
-* [https://pythonsimplified.com/5-common-techniques-to-handle-imbalanced-data/](Techniques to Handle Imbalanced Data)
-* [https://machinelearningmastery.com/failure-of-accuracy-for-imbalanced-class-distributions/](Failure of Accuracy)
+* [Techniques to Handle Imbalanced Data](https://pythonsimplified.com/5-common-techniques-to-handle-imbalanced-data/)
+* [Failure of Accuracy](https://machinelearningmastery.com/failure-of-accuracy-for-imbalanced-class-distributions/)
 
 ![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/2.jpg)![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/3.jpg)
 ![](https://github.com/hydrobot004/Troy_Portfolio/blob/main/images/5.jpg)
