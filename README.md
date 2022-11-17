@@ -9,7 +9,7 @@ Data Science / Image Analysis / GIS portfolios
 * Packages/Libraries: MMM, Lunar Spectral Library, JMUSTARD, TLROUSH, RVMORRIS, ISAACSON, EXCEL, DEM
 * Datasize >100 GB
 
-## Keywords:  planetary geology, PSR, water ice, space exploration, ENVI, Matlab, spectral signitures
+## Keywords:  planetary geology, PSR, water ice, artemis, space exploration, ENVI, Matlab, spectral signitures
 ![](/images/20.jpg)
 
 
