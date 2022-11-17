@@ -1,7 +1,31 @@
 # Troy_Portfolio
 Data Science / Image Analysis / GIS portfolios
 
-# [Project 1: Data Science Purchase Estimator: Project Overview](https://github.com/hydrobot004/XG-BoostML_Algorithms)
+# [Project 1: Lunar Geology for Human Exploration: Project Overview](https://github.com/hydrobot004/XG-BoostML_Algorithms)
+* Using ENVI and MATLAB to evaluate lunar spectral signitures for identifying selected minerals
+
+## Code and Resources Used
+* ENVI: 5.3  MATLAB 6.5
+* Packages/Libraries: MMM, Lunar Spectral Library, JMUSTARD, TLROUSH, RVMORRIS, ISAACSON, EXCEL, DEM
+* Datasize >100 GB
+
+## Abstract
+Lunar Geology for Human Exploration
+Troy P. Bernier1, Israel Olaoye2, Harrison Spiller1
+1. Azimuth Energy, Houston, TX
+2. Kent State University, Kent, OH
+
+Abstract
+The field of Planetary Geology is likely to grow for the foreseeable future, and Lunar exploration is taking the lead. The Lunar South Pole and other permanently shaded regions (PSRs) have proven ideal for the development and sustainability of a lunar colony. The presence of abundant water ice at the moon’s south Pole could sustain a lunar colony and produce resources for exploring other celestial bodies, including planets. Recent studies use lidar, reflectance spectroscopy, albedo, and temperature to assess the lunar terrain, geology, and potential water resources. 
+This research aims to further assess the abundance and distribution of lunar natural resources for the feasibility of a permanent lunar base. This synthesis includes data from the Lunar Reconnaissance Orbital, Lunar Prospector, and the Moon Mineralogy Mapper. It involves mapping the geologic resources, water ice, and volatiles in the Shackleton crater and surrounding region.    
+Results from this work will assist in the planning and design phase for establishing a permanent colony, the gateway station, and the space exploration program.
+
+
+## Keywords  planetary geology, PSR, water ice, space exploration, ENVI, Matlab, spectral signitures
+![](/images/20.jpg)
+
+
+# [Project 2: Data Science Purchase Estimator: Project Overview](https://github.com/hydrobot004/XG-BoostML_Algorithms)
 * Created a tool deployed on AWS Sagemaker that predicts the likelyhood of bank customers making a purchase 
 * Using XG-BoostML_Algorithms to train, test and predict employing a confusion matrix.
 
@@ -13,7 +37,7 @@ Data Science / Image Analysis / GIS portfolios
 ![](/images/1.jpg)
 
 
-# [Project 2: Data Science IOT Anomaly, Risk, and Failure Prediction Detection: Project Overview](https://github.com/hydrobot004/pumpsensors-01)
+# [Project 3: Data Science IOT Anomaly, Risk, and Failure Prediction Detection: Project Overview](https://github.com/hydrobot004/pumpsensors-01)
 * Any dataset can be implemented from similar IoT related devices that produce time series data.
 * This project can help you to learn:
 * how to approach sensors data
@@ -33,7 +57,7 @@ Data Science / Image Analysis / GIS portfolios
 ![](/images/5.jpg)
 
 
-# [Project 3: Data Science Python, Keras A.I., TensorFlow, and SQL tool to analyze, manipulate, and predict missing data: Project Overview](https://github.com/hydrobot004/gap_fill_estimates)
+# [Project 4: Data Science Python, Keras A.I., TensorFlow, and SQL tool to analyze, manipulate, and predict missing data: Project Overview](https://github.com/hydrobot004/gap_fill_estimates)
 * Any dataset of three or more time series can be implemented to predict the gaps in one of the datasets
 * This project can help you to learn:
 * how to analyze, manipulate, and predict missing data,
