@@ -21,7 +21,7 @@ This research aims to further assess the abundance and distribution of lunar nat
 Results from this work will assist in the planning and design phase for establishing a permanent colony, the gateway station, and the space exploration program.
 
 
-## Keywords  planetary geology, PSR, water ice, space exploration, ENVI, Matlab, spectral signitures
+## Keywords:  planetary geology, PSR, water ice, space exploration, ENVI, Matlab, spectral signitures
 ![](/images/20.jpg)
 
 
