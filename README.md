@@ -1,5 +1,5 @@
 # Troy_Portfolio
-Data Science portfolio
+Data Science / Image Analysis / GIS portfolios
 
 # [Project 1: Data Science Purchase Estimator: Project Overview](https://github.com/hydrobot004/XG-BoostML_Algorithms)
 * Created a tool deployed on AWS Sagemaker that predicts the likelyhood of bank customers making a purchase 
