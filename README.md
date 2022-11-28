@@ -26,12 +26,12 @@ Data Science / Image Analysis / GIS portfolios
 
 
 # [Project 3: Data Science IOT Anomaly, Risk, and Failure Prediction Detection: Project Overview](https://github.com/hydrobot004/pumpsensors-01)
-* Any dataset can be implemented from similar IoT related devices that produce time series data.
-* This project can help you to learn:
-* how to approach sensors data
-* how to find anomalies which can identify pumps or other IOT devices at risk,
-* slopes in the time series record, another indicator of potential failure. 
-* python code which can be run on AWS Sagemaker or a desktop Jupyter notebook 
+* Cleaned datasets can be implemented from IoT devices
+* We format your data for time series analysis.
+* You will gain;
+* How your sensors perform, 
+* We find anomalies which can identify IoT sensors at risk. 
+* Python code which can be run on AWS Sagemaker or a desktop Jupyter notebook 
 
 ## Code and Resources Used
 * Python Version: 3.7
